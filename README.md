@@ -17,7 +17,7 @@ The released projects include:
 4. Machine Learning Framework: this project contains two implementations of an Artificial Neural Network and N-Gram.
 5. CRUD-Based C5 Collection: this project contains a wrapper/factory class of the C5 data structures.
 6. Green CRUD-Based C5 Collection: this project contains the GreenC5 data structure class, Green component and other utility classes.
-7. GreenC5 Simulator: this project is the implementation of our GreenC5 simulator to allow users to interact with the GreenC5 in different use-case scenarios and settings. The project also contains code examples of the GreenC5 is used; experiment and evaluation projects of the three additional case studies; and the implementations of Watts Up? and Intel Power Gadget based power profilers.
+7. GreenC5 Simulator: this project is the implementation of our GreenC5 simulator to allow users to interact with the GreenC5 in different use-case scenarios and settings. The project also contains code examples of how the GreenC5 is used; experiment and evaluation projects of the three additional case studies; and the implementations of Watts Up? and Intel Power Gadget based power profilers.
 
 Authors and Contributors:
 Junya Michanan (@michanaj), Rinku Dewri & Matthew J. Rutherford, Computer Science Department, University of Denver, Colorado, USA.
