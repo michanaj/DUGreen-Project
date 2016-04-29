@@ -1,4 +1,4 @@
-# DUGreen-Project
+# DUGreen Project
 DUGreen projects for green software development
 
 GreenC5 is a prototype of an adaptive and energy-aware version of the traditional C5 Generic Collection—A well-known comprehensive and open-source data structure library for .NET programming.
