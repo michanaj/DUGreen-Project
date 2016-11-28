@@ -20,4 +20,5 @@ The released projects include:
 7. GreenC5 Simulator: this project is the implementation of our GreenC5 simulator to allow users to interact with the GreenC5 in different use-case scenarios and settings. The project also contains code examples of how the GreenC5 is used; experiment and evaluation projects of the three additional case studies; and the implementations of Watts Up? and Intel Power Gadget based power profilers.
 
 Authors and Contributors:
-Junya Michanan (@michanaj), Rinku Dewri & Matthew J. Rutherford, Computer Science Department, University of Denver, Colorado, USA.
+Junya Michanan (@michanaj), Mathematics & Computer Science Department, Chulachomklao Royal Military Academy, Nakhorn Nayok, Thailand
+Rinku Dewri & Matthew J. Rutherford, Computer Science Department, University of Denver, Colorado, USA.
