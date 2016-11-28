@@ -19,7 +19,8 @@ The released projects include:
 6. Green CRUD-Based C5 Collection: this project contains the GreenC5 data structure class, Green component and other utility classes.
 7. GreenC5 Simulator: this project is the implementation of our GreenC5 simulator to allow users to interact with the GreenC5 in different use-case scenarios and settings. The project also contains code examples of how the GreenC5 is used; experiment and evaluation projects of the three additional case studies; and the implementations of Watts Up? and Intel Power Gadget based power profilers.
 
+Our publication: http://dx.doi.org/10.1016/j.suscom.2016.11.004
+
 Authors and Contributors:
 Junya Michanan (@michanaj), Mathematics & Computer Science Department, Chulachomklao Royal Military Academy, Nakhorn Nayok, Thailand
-
 Rinku Dewri & Matthew J. Rutherford, Computer Science Department, University of Denver, Colorado, USA.
