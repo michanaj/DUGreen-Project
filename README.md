@@ -23,4 +23,5 @@ Our publication: http://dx.doi.org/10.1016/j.suscom.2016.11.004
 
 Authors and Contributors:
 Junya Michanan (@michanaj), Mathematics & Computer Science Department, Chulachomklao Royal Military Academy, Nakhorn Nayok, Thailand
+
 Rinku Dewri & Matthew J. Rutherford, Computer Science Department, University of Denver, Colorado, USA.
