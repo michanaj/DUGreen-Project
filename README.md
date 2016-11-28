@@ -21,4 +21,5 @@ The released projects include:
 
 Authors and Contributors:
 Junya Michanan (@michanaj), Mathematics & Computer Science Department, Chulachomklao Royal Military Academy, Nakhorn Nayok, Thailand
+
 Rinku Dewri & Matthew J. Rutherford, Computer Science Department, University of Denver, Colorado, USA.
